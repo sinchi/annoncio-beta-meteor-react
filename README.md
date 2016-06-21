@@ -1,11 +1,11 @@
 # Annoncio
-A starting point for Meteor apps.
+Beta 
 
 <table>
   <tbody>
     <tr>
       <th>Annoncio</th>
-      <td>v4.3.0</td>
+      <td>beta-1</td>
     </tr>
     <tr>
       <th>Meteor Version</th>
