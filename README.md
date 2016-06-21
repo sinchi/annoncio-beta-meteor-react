@@ -4,7 +4,7 @@ A starting point for Meteor apps.
 <table>
   <tbody>
     <tr>
-      <th>Base Version</th>
+      <th>Annoncio</th>
       <td>v4.3.0</td>
     </tr>
     <tr>
@@ -14,4 +14,3 @@ A starting point for Meteor apps.
   </tbody>
 </table>
 
-[Read the Documentation](http://themeteorchef.com/base)
