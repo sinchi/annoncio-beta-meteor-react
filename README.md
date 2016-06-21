@@ -1,4 +1,4 @@
-# The Meteor Chef - Base
+# Annoncio
 A starting point for Meteor apps.
 
 <table>
