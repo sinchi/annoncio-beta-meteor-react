@@ -31,5 +31,6 @@ xolvio:cleaner
 practicalmeteor:mocha
 xolvio:backdoor
 mdg:validated-method
-dburles:factory@1.0.0
+dburles:factory
 ddp-rate-limiter
+react-meteor-data
